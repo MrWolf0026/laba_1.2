@@ -6,7 +6,7 @@ int main()
 {
 	setlocale(LC_ALL, "Russian");
 	int yearEnt = 1984;
-	int year1 = 2070;
+	int year1 = 1984;
 	int Cikl = 1;
 	string color, animal;
 
